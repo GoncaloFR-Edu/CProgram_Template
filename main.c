@@ -5,7 +5,7 @@
 int main() {
 
     /* Program code. */
-    printf("I do nothing at this moment.\n");
+    printf("I do nothing at this moment. ok?\n");
 
     return EXIT_SUCCESS;
 }
